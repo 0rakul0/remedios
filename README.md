@@ -8,7 +8,7 @@
 <p align="center">
   <a href="#como-executar">Como executar</a> •
   <a href="#funcionalidades">Funcionalidades</a> •
-  <a href="#a-desenvolver">A desenvolver</a>
+  <a href="#a-desenvolver">A desenvolver</a> •
 </p>
 
 ![](https://github.com/0rakul0/remedios/blob/main/assets/preview.png)
