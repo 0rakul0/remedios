@@ -11,9 +11,9 @@
   <a href="#a-desenvolver">A desenvolver</a>
 </p>
 
-![](https://github.com/0rakul0/)
+![](https://github.com/0rakul0/remedios/blob/main/assets/preview.png)
 
-**Link figma:** 
+**Link figma:** https://www.figma.com/file/NgcyocatrZu804fIgLTqdd/SeusRem%C3%A9dios
 
 ## 🚀 Como executar
 <ul>
