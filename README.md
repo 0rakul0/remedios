@@ -13,7 +13,7 @@
 
 ![](https://github.com/0rakul0/remedios/blob/main/assets/preview.png)
 
-**Link figma:** https://www.figma.com/file/NgcyocatrZu804fIgLTqdd/SeusRem%C3%A9dios
+**Link figma:** https://www.figma.com/file/NgcyocatrZu804fIgLTqdd/SeusRem%C3%A9dios?node-id=0%3A1
 
 ## 🚀 Como executar
 <ul>
